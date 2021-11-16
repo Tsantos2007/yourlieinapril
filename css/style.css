@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+}
+
+
+.headimg {
+    width: 100%;
+    height: auto;
+    border-radius: 0 0 10% 10%;
+    box-shadow: 0 30px 70px #c5c5c552;
+}
+
+.resume {
+    margin: 6.71%;
+    /*margin-right: 10%;*/
+   /* margin-left: 10%;*/
+    font-family: 'Open Sans', sans-serif;
+    color: #9db7ce;
+    
+    
+}
+
+.resume h1,
+.episodes h1{
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.resume p{
+    margin-top: 19px;
+    font-size: 30px;
+    height: /*auto*/0px;
+    
+    color: #9db7cea8;
+    
+    display: block;     
+    float: left;
+    width: 59.42%;
+    margin-right: 9.15%;
+    
+}
+
+.resume img {
+    display: block;
+}
+
+.poster {
+    width: 18%;
+   /* float: right;*/
+    margin-right:5%;
+    border-radius: 55px;
+    box-shadow: 0 20px 30px #51697e67;
+    transition: 0.5s;
+    z-index: 10;
+}
+
+.poster:hover {
+    width: 20%;
+}
+
+
+.episodes {
+    background: #78a8d173;
+    box-shadow: 0 20px 70px#a0c5e655;
+    margin-bottom: 20em;
+    color: #88AED0;
+    margin: 3.355%;
+    padding: 3.355%;
+    border-radius: 25px 100px;    
+
+}
+
+.epbutton  {
+    width: 17.67468%;
+    height: 150px;
+    margin-top: 30px;
+    padding: 0;
+border: none;
+background: none;
+}
+
+.epbuttonright {
+    margin-right: 1.4583%;
+
+}
+
+.epbutton img {
+    transition: 0.5s;
+    border-radius: 20px;
+}
+
+.epbutton img:hover {
+    width:110%;
+}
+
+/*
+https://drive.google.com/file/d/1dv6DhMBMObfwrRnFY-SGvIIquuxyorGu/view?usp=sharing
+
+*/
+
